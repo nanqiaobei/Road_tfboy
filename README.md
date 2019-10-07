@@ -1,3 +1,4 @@
-#demo01 : 一个完整的程序
-#demo02: 主要介绍了tf.keras.Input() 的输入，model的可视化
-#demo03: 主要介绍了tf 搭建模型的2中方式：1.从输入到输出的函数式编程，2，通过继承Model这个类,可定义自己的layer
+#目录：
+  demo01 : 一个完整的程序
+  demo02: 主要介绍了tf.keras.Input() 的输入，model的可视化
+  demo03: 主要介绍了tf 搭建模型的2中方式：1.从输入到输出的函数式编程，2，通过继承Model这个类,可定义自己的layer
