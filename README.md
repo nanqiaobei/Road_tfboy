@@ -9,3 +9,4 @@
   demo08:实先模型重复使用，配置不同的model.compile()<br>
   demo09:介绍如何定义自己loss function 和metric<br>
   demo10:介绍如何定义一个层<br>
+  demo11:详细介绍了层的定义，以及如何定义可训练，以及不可训练参数，如何快速的add_weight方法,
