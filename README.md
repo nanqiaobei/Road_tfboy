@@ -8,3 +8,4 @@
   demo07:针对模型的训练介绍了model.fit 和model,evalute(),model.predict()<br>
   demo08:实先模型重复使用，配置不同的model.compile()<br>
   demo09:介绍如何定义自己loss function 和metric<br>
+  demo10:介绍如何定义一个层<br>
